@@ -74,7 +74,12 @@ background-color: #96E196;
 }
 .imagenes div {
 	display: inline-block;
-	width: 30%;
+	width: 25%;
+	margin-left: 70px;
+
+}
+img{
+	border-radius: 170px;
 }
 .formulario{
 	width: 60%;
@@ -104,4 +109,7 @@ background-color: #96E196;
 	margin-top: 10px;
 	padding:10px;
 	height: 20px;
+}
+h1{
+	margin-top: 0px;
 }
