@@ -50,11 +50,12 @@ body{
 	text-align: center;
 	padding: 20px;
 	}
-.seccionproximosdestinos{
+.destinos{
 	background-color: #96E196;
 	height: 400px;	
 	width: 100%;
 }
+.
 .experiencia{
 height: 400px;
 background-color: #96E196;
@@ -72,7 +73,7 @@ background-color: #96E196;
 	font-family: sans-serif; 
 }
 .imagenes div {
-	display: flex;
+	display: inline-block;
 	width: 30%;
 }
 .formulario{
@@ -95,7 +96,7 @@ background-color: #96E196;
 	width: 300px;
 	background-color: #86C9BE;
 	height: 300px;
-	display: inline-flex;
+	display: inline-block;
 }
 #contactanos{
 	background-color:  #86C9BE;
